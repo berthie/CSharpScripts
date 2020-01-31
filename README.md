@@ -1,0 +1,2 @@
+# CSharpScripts
+GameScripts
